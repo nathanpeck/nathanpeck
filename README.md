@@ -6,5 +6,6 @@
   - A [serverless chat application](https://github.com/nathanpeck/socket.io-chat-fargate) built using AWS Fargate, and DynamoDB
   - A [serverless changelog crawler and search engine](https://github.com/aws-samples/aws-cdk-changelogs-demo), which powers my website [changelogs.md](https://changelogs.md)
 - I am also responsible for:
+  - [Containers on AWS](https://containersonaws.com/pattern/) - A large collection of infrastructure as code patterns for Amazon ECS and AWS Fargate. This is a great place to find example applications and starter templates you can use to deploy your own conatiners on AWS.
   - [Awesome ECS](https://github.com/nathanpeck/awesome-ecs/blob/master/README.md): A curated list that helps folks who want to dive into the world of deploying containerized applications using Amazon ECS.
   - [ecs-service-extensions](https://www.npmjs.com/package/@aws-cdk-containers/ecs-service-extensions): An AWS Cloud Development Kit module for constructing ECS services and extending them with features like service mesh and observability
