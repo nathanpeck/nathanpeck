@@ -2,9 +2,6 @@
 
 - I work as a senior developer advocate at AWS 🥑
 - You can [chat with me on LinkedIn](https://www.linkedin.com/in/nathankpeck/), or [check my blog](https://nathanpeck.com) for interesting articles and videos
-- Here are some of my favorite open source sample applications I'm proud of:
-  - A [serverless chat application](https://github.com/nathanpeck/socket.io-chat-fargate) built using AWS Fargate, and DynamoDB
-  - A [serverless changelog crawler and search engine](https://github.com/aws-samples/aws-cdk-changelogs-demo), which powers my website [changelogs.md](https://changelogs.md)
 - I am also responsible for:
   - [Containers on AWS](https://containersonaws.com/pattern/) - A large collection of infrastructure as code patterns for Amazon ECS and AWS Fargate. This is a great place to find example applications and starter templates you can use to deploy your own containers on AWS.
   - [Awesome ECS](https://github.com/nathanpeck/awesome-ecs/blob/master/README.md): A curated list that helps folks who want to dive into the world of deploying containerized applications using Amazon ECS.
