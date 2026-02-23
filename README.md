@@ -1,6 +1,6 @@
 ### Hi I'm Nathan! 👋
 
-- I work as a senior developer advocate at AWS 🥑
+- I work on product at [Portainer.io](https://portainer.io)
 - You can [chat with me on LinkedIn](https://www.linkedin.com/in/nathankpeck/), or [check my blog](https://nathanpeck.com) for interesting articles and videos
 - I am also responsible for:
   - [Containers on AWS](https://containersonaws.com/pattern/) - A large collection of infrastructure as code patterns for Amazon ECS and AWS Fargate. This is a great place to find example applications and starter templates you can use to deploy your own containers on AWS.
